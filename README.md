@@ -7,17 +7,24 @@ Github repo of the course: https://github.com/Humboldt-WI/adams
 The data was provided by the Chair of Information Systems.
 
 # Required libraries 
--pandas
+pandas
 
--numpy
+numpy
 
--keras
+keras
 
 matplotlib
+
 seaborn
+
 nltk
+
 sklearn
+
 pickle
+
 re
+
 BeautifulSoup
+
 tensorflow
