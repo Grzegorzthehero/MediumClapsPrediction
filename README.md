@@ -1,6 +1,7 @@
 # MediumClapsPrediction
 
 Assignment task completed during the course "Advanced Data Analytics for Management Support" at the Chair of Information Systems
+
 Github repo of the course: https://github.com/Humboldt-WI/adams. 
 
 # Data
