@@ -8,8 +8,11 @@ The data was provided by the Chair of Information Systems.
 
 # Required libraries 
 -pandas
+
 -numpy
+
 -keras
+
 matplotlib
 seaborn
 nltk
