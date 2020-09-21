@@ -23,8 +23,8 @@ sklearn
 
 pickle
 
-re
-
 BeautifulSoup
 
 tensorflow
+
+re
