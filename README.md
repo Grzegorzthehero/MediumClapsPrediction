@@ -7,9 +7,9 @@ Github repo of the course: https://github.com/Humboldt-WI/adams
 The data was provided by the Chair of Information Systems.
 
 # Required libraries 
-pandas
-numpy
-keras
+-pandas
+-numpy
+-keras
 matplotlib
 seaborn
 nltk
