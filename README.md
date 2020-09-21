@@ -28,8 +28,6 @@ BeautifulSoup
 
 tensorflow
 
-re
-
 # Run
 
 It is recommended to run the code in Google Colaboratory
